@@ -70,6 +70,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.0.0"
+  flutter_mrz_scanner_enhanced:
+    dependency: "direct main"
+    description:
+      name: flutter_mrz_scanner_enhanced
+      sha256: c7d4635af1672ccc7dd26b738540991079edc804453318fd1ecf542e7c04f306
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.2.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -131,6 +139,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.17.0"
+  mrz_parser:
+    dependency: transitive
+    description:
+      name: mrz_parser
+      sha256: a7efa848a7d91c538a1c364dc63864d4cb60556037c32218d846aea473e971a7
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.1"
   path:
     dependency: transitive
     description:
